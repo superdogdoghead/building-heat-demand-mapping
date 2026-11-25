@@ -1,0 +1,245 @@
+{
+  "coordinate_system": "synthetic_local_metres",
+  "buildings": [
+    {
+      "id": "S01",
+      "bounds_m": [
+        100,
+        100,
+        120,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact"
+    },
+    {
+      "id": "S02",
+      "bounds_m": [
+        135,
+        100,
+        155,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact"
+    },
+    {
+      "id": "S03",
+      "bounds_m": [
+        180,
+        100,
+        200,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact",
+      "year_options": [
+        {
+          "period": "early",
+          "probability": 0.55
+        },
+        {
+          "period": "late",
+          "probability": 0.45
+        }
+      ],
+      "accepted_size": "spacious"
+    },
+    {
+      "id": "S04",
+      "bounds_m": [
+        220,
+        100,
+        240,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact",
+      "year_options": [
+        {
+          "period": "early",
+          "probability": 0.55
+        },
+        {
+          "period": "late",
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "bounds_m": [
+        650,
+        100,
+        670,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact",
+      "year_options": [
+        {
+          "period": "early",
+          "probability": 0.55
+        },
+        {
+          "period": "late",
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "bounds_m": [
+        720,
+        100,
+        740,
+        110
+      ],
+      "storeys": null,
+      "fallback_size": "compact"
+    },
+    {
+      "id": "S07",
+      "bounds_m": [
+        1050,
+        100,
+        1070,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact"
+    },
+    {
+      "id": "S08",
+      "bounds_m": [
+        300,
+        100,
+        340,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact"
+    },
+    {
+      "id": "S09",
+      "bounds_m": [
+        342,
+        100,
+        350,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact",
+      "year_options": [
+        {
+          "period": "early",
+          "probability": 0.5
+        },
+        {
+          "period": "late",
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "bounds_m": [
+        400,
+        100,
+        420,
+        110
+      ],
+      "storeys": 2,
+      "fallback_size": "compact"
+    }
+  ],
+  "evidence_points": [
+    {
+      "id": "P01",
+      "xy_m": [
+        105,
+        105
+      ],
+      "period": "early",
+      "size": "compact"
+    },
+    {
+      "id": "P02",
+      "xy_m": [
+        139,
+        105
+      ],
+      "period": "early",
+      "size": "compact"
+    },
+    {
+      "id": "P03",
+      "xy_m": [
+        150,
+        105
+      ],
+      "period": "late",
+      "size": "spacious"
+    },
+    {
+      "id": "P04",
+      "xy_m": [
+        338,
+        105
+      ],
+      "period": "early",
+      "size": "compact"
+    },
+    {
+      "id": "P05",
+      "xy_m": [
+        434,
+        105
+      ],
+      "period": "late",
+      "size": "compact"
+    }
+  ],
+  "cells_1km": [
+    {
+      "index": [
+        0,
+        0
+      ],
+      "period_counts": {
+        "early": 55,
+        "late": 45
+      }
+    }
+  ],
+  "intensities_kwh_m2a": [
+    {
+      "period": "early",
+      "size": "compact",
+      "existing": 100,
+      "usual": 60,
+      "advanced": 35
+    },
+    {
+      "period": "late",
+      "size": "compact",
+      "existing": 60,
+      "usual": 38,
+      "advanced": 25
+    },
+    {
+      "period": "early",
+      "size": "spacious",
+      "existing": 120,
+      "usual": 72,
+      "advanced": 45
+    },
+    {
+      "period": "late",
+      "size": "spacious",
+      "existing": 70,
+      "usual": 45,
+      "advanced": 30
+    }
+  ]
+}

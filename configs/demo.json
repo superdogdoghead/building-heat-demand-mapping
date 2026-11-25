@@ -1,0 +1,6 @@
+{
+  "input_file": "../data/synthetic/demo.json",
+  "output_file": "../outputs/demo-results.json",
+  "seed": 20261125,
+  "draws": 2000
+}
