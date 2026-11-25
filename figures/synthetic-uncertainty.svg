@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="493" viewBox="0 0 1080 493" role="img" font-family="Arial, Helvetica, sans-serif">
+<title>How spatial dependence changes uncertainty</title>
+<desc>Empirical cumulative distributions for 2,000 draws per sampling setting, using seed 20261125. P05, P50 and P95 use inclusive linear interpolation of sorted draws. Grouped sampling has a wider central interval.</desc>
+<rect x="0" y="0" width="1080" height="493" rx="0" fill="#fff" stroke="none"/>
+<text x="32" y="44" fill="#172f43" font-size="34" font-weight="700" text-anchor="start">How spatial dependence changes uncertainty</text>
+<text x="33" y="73" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">SYNTHETIC DEMONSTRATION · Existing scenario · 2,000 draws per setting · Seed 20261125</text>
+<line x1="108" y1="360" x2="741" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="94" y="363" fill="#435e70" font-size="15" font-weight="400" text-anchor="end">0%</text>
+<line x1="108" y1="348.0" x2="741" y2="348.0" stroke="#c7d6df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="94" y="349" fill="#435e70" font-size="15" font-weight="400" text-anchor="end">5%</text>
+<line x1="108" y1="240.0" x2="741" y2="240.0" stroke="#c7d6df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="94" y="244.0" fill="#435e70" font-size="15" font-weight="400" text-anchor="end">50%</text>
+<line x1="108" y1="132.0" x2="741" y2="132.0" stroke="#c7d6df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="94" y="137" fill="#435e70" font-size="15" font-weight="400" text-anchor="end">95%</text>
+<line x1="108" y1="120" x2="741" y2="120" stroke="#c7d6df" stroke-width="1"/>
+<text x="94" y="123" fill="#435e70" font-size="15" font-weight="400" text-anchor="end">100%</text>
+<line x1="135.5217391304348" y1="120" x2="135.5217391304348" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="135.5217391304348" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.24</text>
+<line x1="245.60869565217405" y1="120" x2="245.60869565217405" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="245.60869565217405" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.26</text>
+<line x1="355.6956521739133" y1="120" x2="355.6956521739133" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="355.6956521739133" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.28</text>
+<line x1="465.78260869565224" y1="120" x2="465.78260869565224" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="465.78260869565224" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.30</text>
+<line x1="575.8695652173915" y1="120" x2="575.8695652173915" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="575.8695652173915" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.32</text>
+<line x1="685.9565217391307" y1="120" x2="685.9565217391307" y2="360" stroke="#c7d6df" stroke-width="1"/>
+<text x="685.9565217391307" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="middle">0.34</text>
+<line x1="108" y1="120" x2="108" y2="360" stroke="#172f43" stroke-width="1.5"/>
+<text x="108" y="103" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Cumulative probability</text>
+<text x="426" y="415" fill="#435e70" font-size="17" font-weight="400" text-anchor="middle">Annual useful space heat (GWh/a)</text>
+<polyline points="108.00,360.00 232.40,360.00 232.40,353.88 267.63,353.88 267.63,347.28 298.45,347.28 298.45,342.00 320.47,342.00 320.47,328.56 333.68,328.56 333.68,323.76 342.49,323.76 342.49,318.72 355.70,318.72 355.70,307.08 377.71,307.08 377.71,299.88 386.52,299.88 386.52,285.00 408.54,285.00 408.54,271.56 421.75,271.56 421.75,257.40 430.55,257.40 430.55,241.80 443.77,241.80 443.77,227.04 465.78,227.04 465.78,210.12 474.59,210.12 474.59,201.72 496.61,201.72 496.61,185.52 509.82,185.52 509.82,178.20 518.62,178.20 518.62,165.72 531.83,165.72 531.83,149.04 553.85,149.04 553.85,138.96 584.68,138.96 584.68,131.28 619.90,131.28 619.90,120.00 741.00,120.00" stroke="#315e87" stroke-width="2.5" fill="none"/>
+<text x="778" y="122" fill="#315e87" font-size="20" font-weight="700" text-anchor="start">Independent sampling</text>
+<circle cx="267.62608695652193" cy="348.0" r="4.5" fill="#315e87" stroke="#fff" stroke-width="2"/>
+<text x="779" y="152" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P05  0.2640</text>
+<circle cx="443.76521739130436" cy="240.0" r="4.5" fill="#315e87" stroke="#fff" stroke-width="2"/>
+<text x="779" y="175" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P50  0.2960</text>
+<circle cx="584.6765217391303" cy="132.0" r="4.5" fill="#315e87" stroke="#fff" stroke-width="2"/>
+<text x="779" y="198" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P95  0.3216</text>
+<polyline points="108.00,360.00 232.40,360.00 232.40,333.84 298.45,333.84 298.45,306.48 320.47,306.48 320.47,275.28 386.52,275.28 386.52,249.00 430.55,249.00 430.55,246.60 465.78,246.60 465.78,219.24 496.61,219.24 496.61,216.84 518.62,216.84 518.62,214.08 531.83,214.08 531.83,185.76 553.85,185.76 553.85,154.32 584.68,154.32 584.68,152.16 619.90,152.16 619.90,120.00 741.00,120.00" stroke="#087b77" stroke-width="2.5" fill="none"/>
+<text x="778" y="251" fill="#087b77" font-size="20" font-weight="700" text-anchor="start">500 m grouped sampling</text>
+<circle cx="232.39826086956526" cy="348.0" r="4.5" fill="#087b77" stroke="#fff" stroke-width="2"/>
+<text x="779" y="281" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P05  0.2576</text>
+<circle cx="465.78260869565224" cy="240.0" r="4.5" fill="#087b77" stroke="#fff" stroke-width="2"/>
+<text x="779" y="304" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P50  0.3000</text>
+<circle cx="619.9043478260868" cy="132.0" r="4.5" fill="#087b77" stroke="#fff" stroke-width="2"/>
+<text x="779" y="327" fill="#172f43" font-size="17" font-weight="400" text-anchor="start">P95  0.3280</text>
+<text x="779" y="382" fill="#435e70" font-size="15" font-weight="400" text-anchor="start">Inclusive percentiles use</text>
+<text x="779" y="407" fill="#435e70" font-size="15" font-weight="400" text-anchor="start">linear interpolation.</text>
+<text x="33" y="474" fill="#435e70" font-size="15" font-weight="400" text-anchor="start">Synthetic illustration based on fictional data. Not a representation of actual Flensburg research results.</text>
+</svg>

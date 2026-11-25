@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="386" viewBox="0 0 1080 386" role="img" font-family="Arial, Helvetica, sans-serif">
+<title>From spatial evidence to heat-demand estimates</title>
+<desc>Six stages connect spatial evidence, point-to-footprint linkage, attribute reconstruction, deterministic heat-demand estimation, uncertainty propagation and evaluation.</desc>
+<rect x="0" y="0" width="1080" height="386" rx="0" fill="#fff" stroke="none"/>
+<text x="32" y="44" fill="#172f43" font-size="34" font-weight="700" text-anchor="start">From spatial evidence to heat-demand estimates</text>
+<text x="33" y="73" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">RESEARCH SCHEMATIC · Thesis workflow and synthetic verification</text>
+<rect x="33" y="106" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="47" y="136" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">Geospatial data inputs</text>
+<text x="47" y="165" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Footprints and storey counts</text>
+<text x="47" y="190" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Attribute points and census grid</text>
+<line x1="354" y1="157" x2="376" y2="157" stroke="#087b77" stroke-width="2"/>
+<polyline points="369.00,152.00 376.00,157.00 369.00,162.00" stroke="#087b77" stroke-width="2" fill="none"/>
+<rect x="382" y="106" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="396" y="136" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">Point-to-footprint matching</text>
+<text x="396" y="165" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Test containment and proximity</text>
+<text x="396" y="190" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Record assignment provenance</text>
+<line x1="703" y1="157" x2="725" y2="157" stroke="#087b77" stroke-width="2"/>
+<polyline points="718.00,152.00 725.00,157.00 718.00,162.00" stroke="#087b77" stroke-width="2" fill="none"/>
+<rect x="731" y="106" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="745" y="136" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">Attribute reconstruction</text>
+<text x="745" y="165" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Retain period–size candidate tuples</text>
+<text x="745" y="190" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Apply the 1 km census fallback</text>
+<rect x="731" y="239" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="745" y="269" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">B0 / B1 heat estimation</text>
+<text x="745" y="298" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Apply archetype heat intensities</text>
+<text x="745" y="323" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Assess floor-area sensitivity</text>
+<line x1="705" y1="290" x2="726" y2="290" stroke="#087b77" stroke-width="2"/>
+<polyline points="712.00,285.00 705.00,290.00 712.00,295.00" stroke="#087b77" stroke-width="2" fill="none"/>
+<rect x="382" y="239" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="396" y="269" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">B2 uncertainty propagation</text>
+<text x="396" y="298" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Propagate attribute alternatives</text>
+<text x="396" y="323" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Compare sampling dependence</text>
+<line x1="356" y1="290" x2="377" y2="290" stroke="#087b77" stroke-width="2"/>
+<polyline points="363.00,285.00 356.00,290.00 363.00,295.00" stroke="#087b77" stroke-width="2" fill="none"/>
+<rect x="33" y="239" width="316" height="104" rx="7" fill="#f1f6f8" stroke="#c7d6df"/>
+<text x="47" y="269" fill="#087b77" font-size="21" font-weight="700" text-anchor="start">Evaluation and verification</text>
+<text x="47" y="298" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Compare against external evidence</text>
+<text x="47" y="323" fill="#435e70" font-size="17" font-weight="400" text-anchor="start">Verify the standalone demo</text>
+<line x1="889" y1="212" x2="889" y2="235" stroke="#087b77" stroke-width="2"/>
+<polyline points="883.00,229.00 889.00,235.00 895.00,229.00" stroke="#087b77" stroke-width="2" fill="none"/>
+<text x="33" y="371" fill="#435e70" font-size="16" font-weight="400" text-anchor="start">External evaluation takes place in the thesis. The standalone demo reproduces selected methods on fictional data.</text>
+</svg>
